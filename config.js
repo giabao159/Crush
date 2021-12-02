@@ -11,7 +11,7 @@ const CONFIG = {
     btnReply: 'hihihihihihiihihihi',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Bé biết mà 🥰. Yêu chị nhiều nhiều 😘😘',
-    messDesc: 'Tối nay, mình qua đón đi chơi nha.',
+    messDesc: 'yêuuuuuuuuu',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/giabao.speck1line141/' //link mess của các bạn. VD: /dinhkaito
 }
