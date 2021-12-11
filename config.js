@@ -1,17 +1,17 @@
 const CONFIG = {
-    titleWeb: "Gửi đến chị người yêu hung dữ của tuôi",
-    introTitle: 'TRần Thị Kim Ngân',
-    introDesc: `Chị có bt không? Bây h trong tim của em chĩ có mình chị❤❤❤`,
-    btnIntro: '^^Chị bấm vào đây nè^^',
-    title: 'Có nhửng lúc bé làm cho chị cọc😭😭😭😭BÉ BIẾT LỖI ÒI 😚😚😚',
-    desc: 'CHỊ CỌC ĐỪNG QUÁT BÉ NHAAA. THA LỖI CHO BÉ NHA',
-    btnYes: 'Tha cho bé nheeeee',
-    btnNo: 'Chị dỗi nx bé quánh chị á ',
-    question: 'Chị có bt tại sao năm 2000 hợp với năn 2005 ko??? Tại hợp lại là 4005 bé sẽ lấy 1005 đi mua kẹo còn 3000 yêu chị😆😆😆.CHị có yêu bé nhiều hummm',
+    titleWeb: "Gửi đến Crush của tôi",
+    introTitle: 'Hậu dethuongcutephomaique',
+    introDesc: `Anh có bt là  24/7 em luôn nghĩ về anh không hiccccc❤❤❤`,
+    btnIntro: '^^ANh bấm vào đây nè^^',
+    title: 'Mình hứa ju thưn,quan tâm pạn,hoq bỏ pạn🙆‍♀️❤',
+    desc: 'Làm ny mình nhaaaaaa❤❤❤❤'
+    btnYes: 'Đương nhiên ò',
+    btnNo: 'Ma nè bấm vào đeeeeeee👻👻👻👻👻👻 ',
+    question: 'I love You chucamooooo',
     btnReply: 'hihihihihihiihihihi',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Bé biết mà 🥰. Yêu chị nhiều nhiều 😘😘',
+    mess: 'Bé biết mà 🥰. Yêu anh nhiều nhiều 😘😘',
     messDesc: 'yêuuuuuuuuu',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/giabao.speck1line141/' //link mess của các bạn. VD: /dinhkaito
+    messLink: 'https://www.facebook.com/khi.thatsailam.9693' //link mess của các bạn. VD: /dinhkaito
 }
